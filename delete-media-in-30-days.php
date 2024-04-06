@@ -5,7 +5,7 @@ Plugin URI: https://github.com/connectpritam/schedule-delete-wp-media/
 Description: Adds an option to delete uploaded media after 30 days.
 Version: 1.0.3
 Author: Pritam Mullick
-Author URI: http://linkedin.com/connectpritam/
+Author URI: https://www.linkedin.com/in/connectpritam/
 */
 
 // Hook into the WordPress media upload process to add a custom checkbox
