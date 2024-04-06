@@ -46,4 +46,4 @@ This plugin is licensed under the GPL v2 or later.
 Support
 -------
 
-For support, please contact Pritam Mullick (https://linkedin.com/connectpritam) .
+For support, please contact Pritam Mullick (https://www.linkedin.com/in/connectpritam/) .
