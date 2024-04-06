@@ -9,6 +9,9 @@ Features
 -   Automatic Deletion: Enables files to be marked for deletion directly from the media upload screen.
 -   Simple to Use: Just check a box to schedule the deletion of the media file.
 -   Testing Mode: Currently, the plugin is in testing mode, with files set to be deleted 10 minutes after upload.
+Screenshot:
+<img width="370" alt="image" src="https://github.com/connectpritam/schedule-delete-wp-media/assets/23458910/cf305e99-7b2f-4722-8d12-b2f9a3ccaca4">
+
 
 Installation
 ------------
